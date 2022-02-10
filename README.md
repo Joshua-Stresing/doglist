@@ -10,6 +10,8 @@ Use [this template](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-
 
 Here is the model for the `dogs` table
 
+solobologit
+
 ![](./dogs-model.png)
 
 ### Live Example:
